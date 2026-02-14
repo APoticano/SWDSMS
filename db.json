@@ -1,0 +1,15 @@
+{
+  "users": [],
+  "reports": [
+    {
+      "id": 1,
+      "Name": "Kim ryan",
+      "Codename": "asasas",
+      "Grade": "10",
+      "Type": "Bullying",
+      "Description": "sdosfjifhudhuhsjidokskdsd",
+      "Status": "Solved",
+      "Date": "2026-02-22"
+    }
+  ]
+}
