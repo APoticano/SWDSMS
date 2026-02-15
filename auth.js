@@ -1,5 +1,6 @@
 // Backend base URL
 const API_BASE = "https://backend-uvjh.onrender.com/";
+fetch("https://your-backend-name.onrender.com/api/data")
 
 // Save token after login
 function saveAuth(data) {
@@ -29,3 +30,4 @@ function requireAuth(allowedRoles = []) {
     window.location.href = "login.html";
   }
 }
+
